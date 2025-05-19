@@ -16,7 +16,7 @@
 
 ---
 
-## Parte 1. Tutotirla introdutório de Dockerfile
+## Parte 1. Tutorial introdutório de Dockerfile
 
 **Tutorial Introdutório a Dockerfile** by [deepseek](https://chat.deepseek.com/).
 
