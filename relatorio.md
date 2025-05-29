@@ -17,7 +17,7 @@ Iniciei o exercício fazendo um fork do repositório e criando uma pasta intitul
 
 ![Conteúdo do arquivo dockerfile](docker-c-practice/imgs/img_2.png)
 
-Vale salientar que nessa pasta também foram inclúidos os arquivos **"forc.c"** e **"thread.c"**, que virão a ser usandos posteriormente. Dentro deles foram inseridos os seguintes códigos, respectivamente: 
+Vale salientar que nessa pasta também foram inclúidos os arquivos **"fork.c"** e **"thread.c"**, que virão a ser usandos posteriormente. Dentro deles foram inseridos os seguintes códigos, respectivamente: 
 
 ![Conteúdo do arquivo fork.c](docker-c-practice/imgs/img_3.png)
 
